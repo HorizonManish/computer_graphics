@@ -15,7 +15,7 @@
 GLfloat vertices[] =
 {
 		//Positions			RGB for color				TexCoord
-	0.0f, 0.0f, 0.0f,		1.0f,  0.0f, 0.0f,			0.0f, 0.0f,		
+	0.0f, 0.33f, 0.0f,		1.0f,  0.0f, 0.0f,			0.0f, 0.0f,		
 	1.0f, 0.0f, 0.0f,		1.0f,  1.5f, 0.0f,			1.0f, 0.0f,
 	1.0f, 1.0f, 0.0f,		1.0f,  1.0f, 0.0f,			1.0f, 1.0f,
 	0.0f, 1.0f, 0.0f,		0.67f,  0.0f, 1.0f,			0.0f, 1.0f
